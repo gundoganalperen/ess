@@ -1,0 +1,72 @@
+### Grading of Deliverable4/G_ndogan Alperen - 03694565/1517322282/PartA started at 2018-01-30 15:28:55.073819 ### 
+
+Trying to flash Deliverable4/G_ndogan Alperen - 03694565/1517322282/PartA/build/main.hex ... successful.
+Waiting for RPi to boot...
+RPi booted, today's password has 19 characters.
+Connecting XMC keyboard.
+  Time      Attempts   Keystrokes   Correctly guessed     Correctly guessed  
+remaining              per second      characters       characters per second
+                       ( 10s avg)                           (   60s avg)     
+  44:59          0         0.00                   0                 0.00000
+  44:49        208        62.33                   2                 0.18162
+  44:39        321        50.80                   3                 0.14270
+  44:29        405        46.15                   4                 0.12889
+  44:19        476        46.10                   5                 0.12182
+  44:09        539        47.20                   6                 0.11987
+  43:59        596        48.40                   7                 0.09989
+  43:49        648        46.75                   7                 0.07992
+  43:39        696        45.55                   8                 0.07992
+  43:29        742        45.95                   8                 0.05994
+  43:19        785        45.10                   9                 0.05994
+  43:09        826        45.05                   9                 0.03996
+  42:59        865        44.80                  10                 0.05994
+  42:49        902        44.35                  10                 0.03996
+  42:39        938        44.95                  11                 0.05994
+  42:29        972        44.15                  11                 0.03996
+  42:19       1007        45.45                  11                 0.03996
+  42:09       1038        41.81                  12                 0.03996
+  41:59       1070        44.75                  12                 0.03996
+  41:49       1101        44.90                  13                 0.03996
+  41:39       1130        43.45                  13                 0.03996
+  41:29       1160        44.95                  13                 0.03996
+  41:19       1188        43.35                  14                 0.03996
+  41:09       1216        44.75                  14                 0.03996
+  40:59       1243        43.15                  14                 0.01998
+  40:49       1270        44.50                  15                 0.03996
+  40:39       1296        44.15                  15                 0.03996
+  40:29       1322        44.15                  15                 0.01998
+  40:19       1347        43.70                  16                 0.03996
+  40:09       1371        43.15                  16                 0.03996
+  39:59       1396        44.95                  16                 0.01998
+  39:49       1420        43.15                  16                 0.01998
+  39:39       1443        42.50                  17                 0.03996
+  39:29       1466        43.65                  17                 0.01998
+  39:19       1489        43.65                  17                 0.01998
+  39:09       1512        43.65                  17                 0.01998
+  38:59       1534        42.85                  18                 0.03996
+  38:49       1550        32.77                  19                 0.03996
+authenticator finished, granting 5s for creating file...
+Disconnecting XMC keyboard.
+Checking number of correctly guessed characters (half point/char): 19
+Checking average guessing speed within first 10 characters (full point > 0.060, half point > 0.030): 0.08256
+Checking average typing speed (full point > 40.000, half point > 20.000): 44.773
+Obtaining file list from $HOME:
+.
+..
+03694565
+authenticator.log
+.ash_history
+.profile
+.ashrc
+.bashrc
+.local
+.X.d
+Expecting file named '03694565':  Passed.
+Point summary:
+A any try made     2.0 out of   2.0
+A typing speed     1.0 out of   1.0
+A guessing speed   1.0 out of   1.0
+A guessed chars    5.0 out of   5.0
+A file created     1.0 out of   1.0
+                 -----        -----
+Total             10.0 out of  10.0

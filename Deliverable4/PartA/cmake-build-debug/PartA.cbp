@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PartA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\Downloads\;CMake Files\..\..\..\Downloads\clion-2017.3.1\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\;CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Internal\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartA">
+				<Option output="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/PartA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartA"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartA/fast">
+				<Option output="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/PartA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartA/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/Descriptors.c">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/Descriptors.h">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/KeyboardHID.c">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/KeyboardHID.h">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/german_keyboardCodes.h">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/main.c">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeUnixFindMake.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineSystem.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeSystemSpecificInitialize.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompilerId.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCompilerIdDetection.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeFindBinUtils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCXXCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompilerId.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCompilerIdDetection.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeFindBinUtils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeSystemSpecificInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeGenericSystem.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeFindCodeBlocks.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/ProcessorCount.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeLanguageInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCommonLanguageInclude.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeTestCCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeTestCompilerCommon.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompilerABI.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeParseImplicitLinkInfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompileFeatures.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCXXInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeLanguageInformation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeCommonLanguageInclude.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeTestCXXCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeTestCompilerCommon.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompilerABI.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeParseImplicitLinkInfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/CMakeDetermineCompileFeatures.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/ADSP-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/ARMCC-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/AppleClang-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompilerInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Borland-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Bruce-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompilerInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Compaq-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Cray-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Embarcadero-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Fujitsu-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GHS-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/HP-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IAR-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Intel-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/MIPSpro-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/MSVC-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/NVIDIA-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/PGI-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/PathScale-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/SCO-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/SDCC-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/SunPro-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/TI-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Watcom-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/XL-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/zOS-C-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-FindBinUtils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/ADSP-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/ARMCC-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/AppleClang-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompilerInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Borland-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Clang-DetermineCompilerInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Cray-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Embarcadero-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Fujitsu-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GHS-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/HP-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IAR-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Intel-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/MIPSpro-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/MSVC-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/NVIDIA-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/PGI-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/PathScale-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/SCO-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/TI-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/Watcom-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/XL-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-FindBinUtils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-C.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/CMakeCommonCompilerMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-C-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-C-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-C-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Compiler/GNU-CXX-FeatureTests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Compiler\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux-Determine-CXX.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/UnixPaths.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux-GNU-C.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux-GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux-GNU-CXX.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Platform/Linux-GNU.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Platform\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Internal/FeatureTesting.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Internal\"/>
+		</Unit>
+		<Unit filename="/home/ga53keb/Embedded/Deliverable4/PartA/../../../Downloads/clion-2017.3.1/bin/cmake/share/cmake-3.9/Modules/Internal/FeatureTesting.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\Downloads\clion-2017.3.1\bin\cmake\share\cmake-3.9\Modules\Internal\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

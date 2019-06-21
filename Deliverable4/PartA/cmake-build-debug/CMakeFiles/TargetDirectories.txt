@@ -1,0 +1,3 @@
+/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ga53keb/Embedded/Deliverable4/PartA/cmake-build-debug/CMakeFiles/PartA.dir

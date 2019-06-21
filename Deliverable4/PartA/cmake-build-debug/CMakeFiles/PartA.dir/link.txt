@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PartA.dir/Descriptors.c.o CMakeFiles/PartA.dir/KeyboardHID.c.o CMakeFiles/PartA.dir/main.c.o  -o PartA 
